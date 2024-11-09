@@ -4,4 +4,8 @@ public class VK
 	{
 		System.out.println("Hello World");
 	}
+	Static
+	{
+		System.out.println("This is static block");
+	}
 }
